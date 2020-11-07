@@ -1,0 +1,18 @@
+The audios files used as dataset for this project was downloaded from the youtube videos listed below:
+
+Hannah Fry:
+1) Silent background:
+   - "The mathematics of love | Hannah Fry" (https://www.youtube.com/watch?v=yFVXsjVdvmY&ab_channel=TED)
+2) musical background:
+   - "DeepMind: The Podcast | Ep. 1: AI and neuroscience - The virtuous circle" (https://youtu.be/ExrXs7PCQpU)
+3) noisy backgound:
+   - "APM Conference 2018 - Hannah Fry" (https://youtu.be/Y4_fnAosulo)
+
+Obama:
+1) Silent background:
+   - "NPR's Interview With President Obama About 'Obama's Years' | Morning Edition | NPR" (https://www.youtube.com/watch?v=jkfiF_tugU0&ab_channel=NPR)
+2) musical background:
+   - "President Obama's best speeches" (https://www.youtube.com/watch?v=MS5UjNKw_1M&ab_channel=CNN)
+   - "President Barack Obama's Greatest Speeches | NBC News" (https://www.youtube.com/watch?v=hWLf6JFbZoo&ab_channel=NBCNews)
+3) noisy backgound:
+   - "C-SPAN: President-Elect Barack Obama Victory Speech (Full Video)" (https://www.youtube.com/watch?v=jJfGx4G8tjo&list=FLm_pfad72C6vhz6NDLGQfCQ&index=123&ab_channel=C-SPAN)
