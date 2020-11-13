@@ -4,4 +4,4 @@
 <br>
 ***Keywords:*** **Deepfake, audio synthesis, dimensional reduction,clusterization, bispectral analysis.**  
 <br>
-For more details, please refer to the [paper](), to the [notebook](https://github.com/AlmeidaAlin3/AI-Synthesized_Voices_Clusterization/blob/main/colab_notebook/Clusterization%20of%20AI-Synthesized%20Voices%20-%20Aline%20Gabriel%20de%20Almeida.ipynb) or to the [presentation]().
+For more details, please refer to the [paper](https://github.com/AlmeidaAlin3/AI-Synthesized_Voices_Clusterization/blob/main/paper/Clusterization%20of%20AI-Synthesized%20Voices%20using%20Bispectral%20Analysis%20and%20Dimensionality%20Reduction%20-%20Aline%20Gabriel%20de%20Almeida%20.pdf), to the [notebook](https://github.com/AlmeidaAlin3/AI-Synthesized_Voices_Clusterization/blob/main/colab_notebook/Clusterization%20of%20AI-Synthesized%20Voices%20-%20Aline%20Gabriel%20de%20Almeida.ipynb) or to the [presentation]().
