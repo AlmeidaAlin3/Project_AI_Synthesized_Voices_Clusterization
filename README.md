@@ -1,6 +1,6 @@
 ### Clusterization of AI-Synthesized Voices using Bispectral Analysis and Dimensionality Reduction
 
-***Abstract —*** With the recent advances in voice synthesis, AI-synthesized speeches are indistinguishable to human ears and are widely applied to produce realistic and natural DeepFakes, exhibiting useful applications, but also creating real threats toour society. This paper proposes the use of bispectral analysis and statistical tools to create features capable to catch the difference between human and synthesized voices. We show that is possible to visually distinguish the clusters of human and synthesized voices by inspecting a 2-D plot constructed using a dimensional reduction technique.  
+***Abstract —*** With the recent advances in voice synthesis, AI-synthesized speeches are indistinguishable to human ears and are widely applied to produce realistic and natural DeepFakes, exhibiting useful applications, but also creating real threats toour society. This paper proposes the use of bispectral analysis and statistical tools to create features capable to catch the difference between human and synthesized voices. We show that it is possible to visually distinguish the clusters of human and synthesized voices by inspecting a 2-D plot constructed using a dimensional reduction technique.  
 <br>
 ***Keywords:*** **Deepfake, audio synthesis, dimensional reduction, clusterization, bispectral analysis.**  
 <br>
